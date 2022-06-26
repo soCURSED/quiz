@@ -1,9 +1,9 @@
 # quiz
  
 LINK:
-faisalsaud.netlify.app
-faisalsaud.netlify.app
-faisalsaud.netlify.app
+https://faisalsaud.netlify.app/
+https://faisalsaud.netlify.app/
+https://faisalsaud.netlify.app/
 
 ![chrome_YzD6TvatEV](https://user-images.githubusercontent.com/45186916/175833580-31e88995-163c-45a8-b23b-6871a2d6c853.png)
 ![chrome_QN7BSZarOh](https://user-images.githubusercontent.com/45186916/175833583-09b8477e-8297-4abe-b579-d6337ca18f87.png)
