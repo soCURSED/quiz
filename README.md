@@ -2,6 +2,7 @@
  
 LINK:
 
+** The Background animation is not working in netlify.app but works locally**
 
 https://faisalsaud.netlify.app/
 
